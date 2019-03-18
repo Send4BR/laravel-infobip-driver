@@ -3,7 +3,7 @@
     "description": "Adds Infobip mail to Laravel mail drivers.",
     "keywords": ["laravel", "infobip"],
     "type": "library",
-    "version": "1.0.0",
+    "version": "1.0.1",
     "require": {
         "laravel/framework": "^5.6",
         "guzzlehttp/guzzle": "^6.3"
@@ -17,7 +17,7 @@
     ],
     "autoload": {
         "psr-4": {
-            "Send4\\InfobipMail": "src/"
+            "Send4\\InfobipMail\\": "src/"
         }
     },
     "extra": {
