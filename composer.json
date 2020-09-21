@@ -3,7 +3,7 @@
     "description": "Adds Infobip mail to Laravel mail drivers.",
     "keywords": ["laravel", "infobip"],
     "type": "library",
-    "version": "1.0.1",
+    "version": "2.0.0",
     "require": {
         "laravel/framework": "^6.0",
         "guzzlehttp/guzzle": "^6.3"
