@@ -1,5 +1,5 @@
 {
-    "name": "send4/laravel-infobip-driver",
+    "name": "aftersale/laravel-infobip-driver",
     "description": "Adds Infobip mail to Laravel mail drivers.",
     "keywords": ["laravel", "infobip"],
     "type": "library",
